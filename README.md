@@ -85,7 +85,7 @@ One important part of this course is to form a group of 2-4 students, study an a
   * The slides should be in the pdf format.
 5. Present your study if your group project is chosen (5 marks out of 40 marks).
   * Four projects will be selected based on the votes by the students, TAs, and the lecturer.
-  * Two projects will be presented on 7 December 2024 (Tuesday), and the other two will be presented on 9 December 2024 (Thursday).
+  * Two projects will be presented on 10 December 2024 (Tuesday), and the other two will be presented on 12 December 2024 (Thursday).
 6. Warning on plagiarism.
   * Students should not copy texts from other sources in their reports. If students have to use such texts, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of the students' own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If any of the reports of a group is found to plagiarise, everyone in the group will get F.
 
@@ -123,10 +123,10 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/28(Thu) - __NO LECTURES. Interview for Undergraduate Admission.__
 * 12/03(Tue) - An Eager Functional Language (Ch11).
 * 12/05(Thu) - An Eager Functional Language (Ch11)
-* 12/07(Tue) - Project Presentations.
-* 12/09(Thu) - Project Presentations.
-* 12/14(Tue) - __NO LECTURES. Week for Final Exams.__
-* 12/16(Thu) - __FINAL EXAM (1:00pm - 2:30pm, 1101 E3).__
+* 12/10(Tue) - Project Presentations.
+* 12/12(Thu) - Project Presentations.
+* 12/17(Tue) - __NO LECTURES. Week for Final Exams.__
+* 12/19(Thu) - __FINAL EXAM (1:00pm - 2:30pm, 1101 E3).__
 
 ## 7. Lecture Notes
 
