@@ -10,7 +10,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### [27 August] Q&A and use of a LLM.
 
-We strongly recommend students to ask questions in KLMS, instead of in github, if they have any. This would help fellow students to access those questions and corresponding answers more easily. It would also help TAs and the lecture not to miss those questions.
+We strongly recommend students to ask questions in KLMS, instead of in github, if they have any. This would help fellow students to access those questions and corresponding answers more easily. It would also help TAs and the lecturer not to miss those questions.
 
 We do not permit students to ask homework questions directly to ChatGPT, Gemini, or other LLMs. Doing so would be regarded as the violation of the honour code. However, students can use LLMs to get help for their study, for instance, using CoPilot to solve LaTeX typesetting issues and asking ChatGPT to get an overview of a concept or a technique covered in the course or encountered in your group project. If a student or a project group gets help from LLMs for an assignment, such as a project report, the student or the group should do the following two things:
 
@@ -31,7 +31,7 @@ We will adopt the following scheme for handling late submissions for all types o
 
 We adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F.
 
-We also handle the case of plagiarism strictly. Plagiarism means that students copy texts from other sources in their reports. They shouldn't do it. If students have to use texts from other sources, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of the students' own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed; if a large part of the report is just a eries of rephrases of existing texts, the report won't get good marks. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If a report of a student or a project group is found to plagiarise, the student or everyone in the group will get F. 
+We also handle the case of plagiarism strictly. Plagiarism means that students copy texts from other sources in their reports. They shouldn't do it. If students have to use texts from other sources, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of their own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed; if a large part of the report is just a series of rephrases of existing texts, the report won't get good marks. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If a report of a student or a project group is found to plagiarise, the student or everyone in the group will get F. 
 
 ## 2. Logistics
 
@@ -51,14 +51,43 @@ We also handle the case of plagiarism strictly. Plagiarism means that students c
 
 ## 3. Final Exam
 
-The final exam for this course will happen in class on the 5th of December (Thursday). Please note the unusual date of the exam, and make sure that you come to the class on that day and take the exam. The detailed information about the exam is given below.
+The final exam for this course will happen in our usual classroom on the 19th of December (Thursday) during the final-exam period. Note that the exam starts at 1:00pm.
 
-* Date: 5 December 2024 (Thursday).
-* Time: 14:30 - 16:00.
+* Date: 19 December 2024 (Thursday).
+* Time: 13:00 - 14:30.
 * Place: 1101 in E3.
-* The scope of the exam is all the topics covered in the classes.
+* Closed-book exam. The scope of the exam is all the topics covered in the classes.
 
 ## 4. Group Project
+
+One important part of this course is to form a group of 2-4 students, study an advanced research topic on programming languages with fellow students in the group, and present what the group studied if the group is selected for presentation. Here are the detailed instructions on this group project.
+
+1. Form a group.
+  * Deadline - 11:59PM on 26 September 2024 (Thursday).
+  * Form a group with 2-4 students.
+2. Select a topic and write a proposal (5 marks out of 40 marks).
+  * Deadline - 11:59PM on 17 October 2024 (Thursday).
+  * Pick a paper or papers on the theories of programming languages that will be studied by your group.
+    The paper or papers should be chosen among papers published in POPL'20, POPL'21,
+    POPL'22, POPL'23, POPL'24, PLDI'20, PLDI'21, PLDI'22, PLDI'23, and PLDI'24.
+  * Submit a 1-page proposal in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
+  * The proposal can be submitted by only one member of each team.
+3. Write a report (15 marks out of 40 marks).
+  * Deadline - 11:59PM on 21 November 2024 (Thursday).
+  * Submit a report with at most 4 pages excluding bibliography and figures in KLMS.
+  * The report can be submitted by only one member of each team.
+  * The report should explain not just the topic studied by your group but also how the group studied the topic. The latter can be about how the group members studied the topic together, which questions they asked in order to understand the topic in depth, which other papers they studied, which existing implementations or mechanised proofs they looked at if there are any such, and how each member of the group contributed to the study, etc.
+  * We encourage the students to go beyond a simple summary of the topic, and to have their own thoughts on the topic in the form of mathematical or experimental analyses. For instance, if the existing results on a chosen topic mostly use the call-by-value setting, the students may try to find out which parts of the results survive in the call-by-name setting.
+4. Submit the slides of a presentation on the studied topic (15 marks out of 40 marks).
+  * Deadline - 11:59PM on 28 November 2024 (Thursday).
+  * Prepare the slides for a 35-minute talk on the studied topic, and submit them in KLMS.
+  * The slides can be submitted by only one member of each team.
+  * The slides should be in the pdf format.
+5. Present your study if your group project is chosen (5 marks out of 40 marks).
+  * Four projects will be selected based on the votes by the students, TAs, and the lecturer.
+  * Two projects will be presented on 7 December 2024 (Tuesday), and the other two will be presented on 9 December 2024 (Thursday).
+6. Warning on plagiarism.
+  * Students should not copy texts from other sources in their reports. If students have to use such texts, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of the students' own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If any of the reports of a group is found to plagiarise, everyone in the group will get F.
 
 ## 5. Homework
 
@@ -86,22 +115,22 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/31(Thu) - Failure, Input-Output and Continuation (Ch5).
 * 11/05(Tue) - Failure, Input-Output and Continuation (Ch5).
 * 11/07(Thu) - Transition Semantics (Ch6)
-* 11/12(Tue) - The Lambda Calculus (Ch10).  
+* 11/12(Tue) - Transition Semantics (Ch6) 
 * 11/14(Thu) - The Lambda Calculus (Ch10).  
 * 11/19(Tue) - The Lambda Calculus (Ch10).
-* 11/21(Thu) - An Eager Functional Language (Ch11).
-* 11/26(Tue) - An Eager Functional Language (Ch11).
+* 11/21(Thu) - The Lambda Calculus (Ch10).
+* 11/26(Tue) - The Lambda Calculus (Ch10).
 * 11/28(Thu) - __NO LECTURES. Interview for Undergraduate Admission.__
 * 12/03(Tue) - An Eager Functional Language (Ch11).
-* 12/05(Thu) - __FINAL EXAM.__
+* 12/05(Thu) - An Eager Functional Language (Ch11)
 * 12/07(Tue) - Project Presentations.
 * 12/09(Thu) - Project Presentations.
 * 12/14(Tue) - __NO LECTURES. Week for Final Exams.__
-* 12/16(Thu) - __NO LECTURES. Week for Final Exams.__
+* 12/16(Thu) - __FINAL EXAM (1:00pm - 2:30pm, 1101 E3).__
 
 ## 7. Lecture Notes
 
-The lectures will be based on the following hand-written notes, which summarise the contents of the two main textbooks. Reading these notes and solving exercisers in the notes is a recommended way to study the topics covered by the course.
+The lectures will be based on the following hand-written notes, which summarise the contents of the two main textbooks. Reading these notes and solving exercises in the notes is a recommended way to study the topics covered by the course.
 
 * Predicate Logic (Ch1) ([note1](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture2/note8.jpg)).
 * The Simple Imperative Language (Ch2) ([note1](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture3/note6.jpg)).
@@ -116,12 +145,13 @@ The lectures will be based on the following hand-written notes, which summarise 
 
 ## 8. Study Materials
 
-We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 10 of Tennent's book.
+We will mainly follow Reynolds's book, and we may cover the materials appearing in Chapters 8 and 10 of Tennent's book.
 
 * Main Textbook 1 : [Theories of Programming Languages, John C Reynolds](https://www.cambridge.org/core/books/theories-of-programming-languages/19530A88F3471B2A7D9891770B21DAF9), Cambridge University Press, 1998. 
 * Main Textbook 2 : Semantics of Programming Languages, Robert D. Tennent, Prentice Hall, 1991. Chapters 8 and 10 only.
 
-In addition to the two books above, the following books will have further information about the topics covered in the course. In particular, Gunter's book goes deep into the domain theory, and Pierce's book into the type theory.
+In addition to the two books above, the following books will have further information about the topics covered in the course. In particular, 
+Harper's book goes deep into the type systems and operational semantics of a range of programming languages, Gunter's book into the domain theory, and Pierce's book into the type theory.
 
 * Auxiliary Textbook 1 : [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf), Second Edition, Robert Harper, Cambridge University Press, 2016.
 * Auxiliary Textbook 2 : Semantics of Programming Languages: Structures and Techniques, Carl A. Gunter, MIT Press, 1992.
