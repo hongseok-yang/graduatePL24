@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [24 September] No lecture on 1 Oct
+
+The first of October is a national holiday. We won't have a class on that day.
+
 #### [27 August] Q&A and use of a LLM.
 
 We strongly recommend students to ask questions in KLMS, instead of in github, if they have any. This would help fellow students to access those questions and corresponding answers more easily. It would also help TAs and the lecturer not to miss those questions.
@@ -103,11 +107,11 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 09/19(Thu) - Predicate Logic (Ch1).
 * 09/24(Tue) - The Simple Imperative Language (Ch2).
 * 09/26(Thu) - The Simple Imperative Language (Ch2).
-* 10/01(Tue) - The Simple Imperative Language (Ch2).
+* 10/01(Tue) - __NO LECTURE. National Foundation Day.__
 * 10/03(Thu) - __NO LECTURE. National Foundation Day.__
-* 10/08(Tue) - Program Specification and Their Proofs (Ch3).
+* 10/08(Tue) - The Simple Imperative Language (Ch2).
 * 10/10(Thu) - Program Specification and Their Proofs (Ch3).
-* 10/15(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 10/15(Tue) - Program Specification and Their Proofs (Ch3).
 * 10/17(Thu) - Failure, Input-Output and Continuation (Ch5).
 * 10/22(Tue) - __NO LECTURES. Week for Mid-term Exams.__
 * 10/24(Thu) - __NO LECTURES. Week for Mid-term Exams.__
