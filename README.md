@@ -14,7 +14,7 @@ The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 18 
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
-#### [24 September] No lecture on 1 Oct
+#### [24 September] No lecture on 1 October.
 
 The first of October is a national holiday. We won't have a class on that day.
 
