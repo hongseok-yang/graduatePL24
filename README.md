@@ -118,9 +118,9 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/01(Tue) - __NO LECTURE. National Foundation Day.__
 * 10/03(Thu) - __NO LECTURE. National Foundation Day.__
 * 10/08(Tue) - The Simple Imperative Language (Ch2).
-* 10/10(Thu) - Program Specification and Their Proofs (Ch3).
+* 10/10(Thu) - The Simple Imperative Language (Ch2).
 * 10/15(Tue) - Program Specification and Their Proofs (Ch3).
-* 10/17(Thu) - Failure, Input-Output and Continuation (Ch5).
+* 10/17(Thu) - Program Specification and Their Proofs (Ch3).
 * 10/22(Tue) - __NO LECTURES. Week for Mid-term Exams.__
 * 10/24(Thu) - __NO LECTURES. Week for Mid-term Exams.__
 * 10/29(Tue) - Failure, Input-Output and Continuation (Ch5).
