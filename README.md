@@ -134,10 +134,10 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/29(Tue) - Failure, Input-Output and Continuation (Ch5).
 * 10/31(Thu) - Failure, Input-Output and Continuation (Ch5).
 * 11/05(Tue) - Failure, Input-Output and Continuation (Ch5).
-* 11/07(Thu) - Transition Semantics (Ch6)
-* 11/12(Tue) - Transition Semantics (Ch6) 
-* 11/14(Thu) - The Lambda Calculus (Ch10).  
-* 11/19(Tue) - The Lambda Calculus (Ch10).
+* 11/07(Thu) - Failure, Input-Output and Continuation (Ch5).
+* 11/12(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 11/14(Thu) - Failure, Input-Output and Continuation (Ch5).
+* 11/19(Tue) - Transition Semantics (Ch6) 
 * 11/21(Thu) - The Lambda Calculus (Ch10).
 * 11/26(Tue) - The Lambda Calculus (Ch10).
 * 11/28(Thu) - __NO LECTURES. Interview for Undergraduate Admission.__
