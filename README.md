@@ -8,6 +8,13 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [23 November] [Homework3](https://github.com/hongseok-yang/graduatePL24/blob/main/Homework/homework3-questions.pdf) is out.
+
+The third homework assignment is out. Submit your solutions in KLMS by 6:00pm on 9 December 2024 (Monday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
+
 #### [29 October] [Homework2](https://github.com/hongseok-yang/graduatePL24/blob/main/Homework/homework2-questions.pdf) is out.
 
 The second homework assignment is out. Submit your solutions in KLMS by 6:00pm on 8 November 2024 (Friday).
@@ -112,6 +119,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 * [Homework1](https://github.com/hongseok-yang/graduatePL24/blob/main/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 18 October 2024 (Friday).
 * [Homework2](https://github.com/hongseok-yang/graduatePL24/blob/main/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 8 November 2024 (Friday).
+* [Homework3](https://github.com/hongseok-yang/graduatePL24/blob/main/Homework/homework3-questions.pdf) - Deadline: 6:00pm on 9 December 2024 (Monday).
 
 ## 6. Tentative Plan
 
